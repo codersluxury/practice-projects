@@ -4,6 +4,9 @@ Welcome to the **Practice Projects** folder! This directory serves as a centrali
 
 ## 📁 Projects
 
+### [Root Practice Page](./index.html)
+A root HTML file at the folder level, providing a direct landing page or quick access preview for this practice-projects directory.
+
 ### [Cafe Menu](./Cafe%20Menu)
 A simple responsive web project showcasing HTML and CSS skills for creating a styled cafe menu page.
 
