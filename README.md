@@ -4,7 +4,7 @@ Welcome to the **Practice Projects** folder! This directory serves as a centrali
 
 ## Live Preview
 
-View live preview: [view practice-projects](https://codersluxury.github.io/practice-projects/)
+Check out the live preview for practice-projects: [view practice-projects](https://codersluxury.github.io/practice-projects/)
 
 ## 📁 Projects
 
