@@ -1,12 +1,13 @@
-# FreeCodeCamp Practice Projects
+# Practice Projects
 
-Welcome to the **Practice Projects** folder! This directory serves as a centralized hub for organizing and managing practice projects from FreeCodeCamp. Each subfolder contains a complete project with its own resources and documentation.
+Welcome to the **Practice Projects** folder! This directory serves as a centralized hub for organizing and managing practice projects from **FreeCodeCamp**. Each subfolder contains a complete project with its own resources and documentation.
 
 ## 📁 Projects
 
 ### [Root Practice Projects](./index.html)
 A navigation hub page that links to all your practice projects for easy access from a single landing page.
-
+### [Business Card](./Business%20Card)
+A digital business card project demonstrating HTML and CSS layout skills with contact information and social links.
 ### [Cafe Menu](./Cafe%20Menu)
 A simple responsive web project showcasing HTML and CSS skills for creating a styled cafe menu page.
 

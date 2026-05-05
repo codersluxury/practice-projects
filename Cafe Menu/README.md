@@ -1,6 +1,6 @@
 # Cafe Menu 🎓
 
-A responsive cafe menu webpage built as a practice project from [FreeCodeCamp](https://www.freecodecamp.org/). This project demonstrates fundamental HTML and CSS concepts including layout, styling, and responsive design.
+A responsive cafe menu webpage built as a practice project. This project demonstrates fundamental HTML and CSS concepts including layout, styling, and responsive design.
 
 ## 📸 Features
 
