@@ -10,10 +10,12 @@ Check out the live preview for practice-projects: [view practice-projects](https
 
 ### [Root Practice Projects](./index.html)
 A navigation hub page that links to all your practice projects for easy access from a single landing page.
-### [Business Card](./Business%20Card)
-A digital business card project demonstrating HTML and CSS layout skills with contact information and social links.
 ### [Cafe Menu](./Cafe%20Menu)
 A simple responsive web project showcasing HTML and CSS skills for creating a styled cafe menu page.
+### [Business Card](./Business%20Card)
+A digital business card project demonstrating HTML and CSS layout skills with contact information and social links.
+### [Greeting Card](./Greeting%20Card)
+An interactive greeting card featuring hover effects, animations, and social sharing functionality.
 
 ## 🎯 Purpose
 
