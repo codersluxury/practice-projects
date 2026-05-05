@@ -2,6 +2,10 @@
 
 Welcome to the **Practice Projects** folder! This directory serves as a centralized hub for organizing and managing practice projects from **FreeCodeCamp**. Each subfolder contains a complete project with its own resources and documentation.
 
+## Live Preview
+
+Check out the live preview for practice-projects: [view practice-projects](https://codersluxury.github.io/practice-projects/)
+
 ## 📁 Projects
 
 ### [Root Practice Projects](./index.html)
