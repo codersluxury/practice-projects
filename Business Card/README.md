@@ -29,6 +29,14 @@ This project showcases a clean, professional business card layout featuring:
 - `index.html` - Main HTML structure with business card content
 - `styles.css` - CSS styling for layout, colors, and responsive behavior
 
+## 🎨 Design Details
+
+- **Color Scheme**: Rosybrown background with white card design
+- **Card Width**: 70% of viewport for optimal readability
+- **Typography**: Arial sans-serif font family
+- **External Links**: All external links open in new tabs for better user experience
+- **Layout**: Centered card with consistent padding and spacing
+
 ## 📱 Responsiveness Features
 
 - Fluid width layout (70% of container)

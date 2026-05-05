@@ -7,7 +7,7 @@ font-family: Arial, sans-serif;
 width: 70%;
 background-color: white;
 padding: 20px;
-margin: 100px auto 0 auto;
+margin: 30px auto 0 auto;
 text-align: center;
 font-size: 16px;
 }
@@ -17,7 +17,7 @@ max-width: 100%;
 }
 
 p {
-margin: 5px 0;
+margin: 4px 0;
 }
 
 a {
