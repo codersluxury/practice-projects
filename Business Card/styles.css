@@ -4,11 +4,10 @@ font-family: Arial, sans-serif;
 }
 
 .business-card {
-width: 80%;
-height: 90vh;
+width: 300px;
 background-color: white;
 padding: 20px;
-margin: 20px auto 20px auto;
+margin: 0 auto 0 auto;
 text-align: center;
 font-size: 16px;
 }
@@ -18,7 +17,7 @@ max-width: 100%;
 }
 
 p {
-margin: 4px 0;
+margin: 5px 0;
 }
 
 a {
