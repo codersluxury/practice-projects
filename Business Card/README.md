@@ -32,17 +32,22 @@ This project showcases a clean, professional business card layout featuring:
 ## 🎨 Design Details
 
 - **Color Scheme**: Rosybrown background with white card design
-- **Card Width**: 70% of viewport for optimal readability
-- **Typography**: Arial sans-serif font family
+- **Card Width**: 80% of viewport for optimal readability
+- **Card Height**: 90vh (viewport height) for full-screen presence
+- **Padding & Margin**: 20px padding with 20px auto vertical margins for balanced spacing
+- **Typography**: Arial sans-serif font family, 16px base size
 - **External Links**: All external links open in new tabs for better user experience
-- **Layout**: Centered card with consistent padding and spacing
+- **Section Dividers**: Horizontal rules separate contact, portfolio, and social media sections
+- **Layout**: Centered card with consistent spacing
 
 ## 📱 Responsiveness Features
 
-- Fluid width layout (70% of container)
+- Fluid width layout (80% of container)
+- Full viewport height (90vh) for better visual impact
 - Centered design that adapts to different screen sizes
-- Mobile-friendly viewport configuration
+- Mobile-friendly viewport meta tag with initial scale
 - Optimized typography and spacing for various devices
+- Image scales proportionally with container
 
 ---
 

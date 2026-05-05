@@ -4,10 +4,11 @@ font-family: Arial, sans-serif;
 }
 
 .business-card {
-width: 70%;
+width: 80%;
+height: 90vh;
 background-color: white;
 padding: 20px;
-margin: 30px auto 0 auto;
+margin: 20px auto 20px auto;
 text-align: center;
 font-size: 16px;
 }
@@ -22,9 +23,4 @@ margin: 4px 0;
 
 a {
 text-decoration: none;
-color: blue;
-}
-
-a:visited {
-    color: purple;
 }
