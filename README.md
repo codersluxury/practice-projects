@@ -18,6 +18,8 @@ A digital business card project demonstrating HTML and CSS layout skills with co
 An interactive greeting card featuring hover effects, animations, and social sharing functionality.
 ### [Parent Teacher Conference Form](./Parent%20Teacher%20Conference%20Form)
 An interactive form project demonstrating HTML form elements, fieldsets, and CSS styling for parent-teacher conference scheduling.
+### [Job Application Form](Job%20Application%20Form/)
+A responsive and modern Job Application Form built using HTML5 and CSS3. This project allows users to submit their personal details, preferred job position, availability, and a short message explaining why they are a great fit for the role.
 
 ## 🎯 Purpose
 
